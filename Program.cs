@@ -71,6 +71,20 @@
     }
     Console.Write("while: " + S);
 
+    //Bai 33
+    //Nhap n>=1
+    double Tong33 = 2;
+    for(i=1; i<n; i++)
+      Tong33 = Math.Sqrt(Tong33) + 2;
+    System.Console.WriteLine(Math.Sqrt(Tong33));
+
+    //Bai 34
+    //Nhap n>=1
+    double Tong34 = 1;
+    for(i=1; i<n; i++)
+      Tong34 = Math.Sqrt(Tong34) + i;
+    System.Console.WriteLine(Math.Sqrt(Tong34));
+
     Console.ReadLine();
   }
 }
