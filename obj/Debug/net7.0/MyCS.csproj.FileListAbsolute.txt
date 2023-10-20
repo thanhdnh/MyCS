@@ -1,0 +1,15 @@
+/Users/hoangthanh/Documents/MyCS/bin/Debug/net7.0/MyCS
+/Users/hoangthanh/Documents/MyCS/bin/Debug/net7.0/MyCS.deps.json
+/Users/hoangthanh/Documents/MyCS/bin/Debug/net7.0/MyCS.runtimeconfig.json
+/Users/hoangthanh/Documents/MyCS/bin/Debug/net7.0/MyCS.dll
+/Users/hoangthanh/Documents/MyCS/bin/Debug/net7.0/MyCS.pdb
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.csproj.AssemblyReference.cache
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.AssemblyInfoInputs.cache
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.AssemblyInfo.cs
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.dll
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/refint/MyCS.dll
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.pdb
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/MyCS.genruntimeconfig.cache
+/Users/hoangthanh/Documents/MyCS/obj/Debug/net7.0/ref/MyCS.dll
