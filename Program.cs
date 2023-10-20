@@ -82,7 +82,7 @@
     //Nhap n>=1
     double Tong34 = 1;
     for(i=1; i<n; i++)
-      Tong34 = Math.Sqrt(Tong34) + i;
+      Tong34 = Math.Sqrt(Tong34) + (i+1);
     System.Console.WriteLine(Math.Sqrt(Tong34));
 
     Console.ReadLine();
