@@ -35,7 +35,6 @@
       i = i + 1;
     }
     Console.WriteLine("while: {0}", S);
-    Console.ReadLine();
 
     /*=== Bai 11 ===*/
     //for
@@ -85,6 +84,26 @@
       Tong34 = Math.Sqrt(Tong34) + (i+1);
     System.Console.WriteLine(Math.Sqrt(Tong34));
 
+    //Bai 98
+    double a = 1, b = 1, c = 1, d = 1, e = 1, f = 2;
+    double D = a*e - b*d;
+    double Dx = c*e - b*f;
+    double Dy = a*f - c*d;
+
+    if(D==0)
+      if(Dx==0 && Dy==0)
+        System.Console.WriteLine("VSN");
+      else
+        System.Console.WriteLine("VN");
+    else
+      System.Console.WriteLine("\n===\n({0}, {1})", Dx/D, Dy/D);
+
+    //Bai rut tien ATM
+    const int t10=10000, t20=20000, t50=50000, t100=100000;
+    System.Console.WriteLine("So tien can rut: 470000");
+    int x = 470000;
+
+    
     Console.ReadLine();
   }
 }
